@@ -1,12 +1,13 @@
+// declare a variable that is the title of the current document
 let pageTitle = document.title;
 
 // 2 arrow function expressions
-// function blur
+// function called blur called by the event of the user navigating away from the page in the <title> tag
 window.addEventListener("blur", () => {
     document.title = "Lorem Ipsum";
 });
 
-// function focus
+// the 2nd arrow function expression is a function called focus
 window.addEventListener("focus", () => {
     document.title = pageTitle
 });
