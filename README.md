@@ -1,5 +1,5 @@
 # lorumipsumwebpages
-A collection of webpages using lorumipsum that I am using to learn about Bootstrap.com tools and responsive functionality.
+A collection of webpages that I am using to learn about Bootstrap.com tools and responsive functionality using lorumipsum text.
 
 https://annwyl21.github.io/lorumipsumwebpages/index.html
 
