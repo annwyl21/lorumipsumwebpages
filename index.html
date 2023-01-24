@@ -8,8 +8,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Bootsrap meta tag commented out <meta name="viewport" content="width=device-width, initial-scale=1"> -->
 
-<!-- when the user navigates away from the page it is an event called 'onpagehide', this window object event triggers the js script to be run that changes the title of the page in the tab -->
-    <title onpagehide="blur" onpageshow="focus">Ellen's Practice Web Pages</title>
+<!-- when the user navigates away from the page it is an event called 'onpagehide', this document object event is listening to the window object to trigger the js script to be run that changes the title of the page in the tab -->
+<!-- the window object is part of the browser object model -->
+<!-- the document object if part of the document object model - created by the browser when it loads a webpage -->
+<title onpagehide="blur" onpageshow="focus">Ellen's Practice Web Pages</title>
 
 <!-- Code to add a favicon, I used w3 schools and a favicon generator to create and add this -->
     <link rel="icon" type="image/x-icon" href="./images/favicon.ico">
