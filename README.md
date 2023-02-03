@@ -20,6 +20,8 @@ The purpose of this work is two-fold:
 
 **Responsive Navigation Bar:** a navigation bar at the top of the page, currently including a non-functional search, demonstrating responsive design and using a working hamburger menu
 
+**Badge:** a 'new' badge to highlight a new page
+
 ###### From general websites/ you tube videos
 
 **Title of the Tab:** when the user navigates away from the page it is an event called 'onpagehide', this document object event is listening to the window object, to trigger the js script to be run that changes the title of the page, in the page tab
@@ -28,3 +30,6 @@ The purpose of this work is two-fold:
 
 **Favicon:** my webpage kept getting a 400 error for the favicon, so I googled what that was and spoke to the fountain of knowledge that is my 13 year old son and found a favicon generator on the w3 schools website, created my own and hey presto, my favicon 200 error is now a 200 ok
 
+###### From Google
+
+**Imported Google Font** I imported this 'unbounded' font from google into my internal style css sheet
