@@ -16,22 +16,22 @@ The purpose of this work is two-fold:
 
 ###### From Bootstrap
 
-**Info Alert:** an alert at the top of the index page, using the .alert and .alert-warning classes provided by Bootstrap. 
+- **Info Alert:** an alert at the top of the index page, using the .alert and .alert-warning classes provided by Bootstrap. 
 
-**Responsive Navigation Bar:** a navigation bar at the top of the page, currently including a non-functional search, demonstrating responsive design and using a working hamburger menu
+- **Responsive Navigation Bar:** a navigation bar at the top of the page, currently including a non-functional search, demonstrating responsive design and using a working hamburger menu
 
-**Badge:** a 'new' badge to highlight a new page
+- **Badge:** a 'new' badge to highlight a new page
 
-**Photo Carousel:** containing 5 bird images that are scrolled through onclick by the user and adapt responsively to the displaying device
+- **Photo Carousel:** containing 5 bird images that are scrolled through onclick by the user and adapt responsively to the displaying device
 
 ###### From general websites/ you tube videos
 
-**Title of the Tab:** when the user navigates away from the page it is an event called 'onpagehide', this document object event is listening to the window object, to trigger the js script to be run that changes the title of the page, in the page tab
+- **Title of the Tab:** when the user navigates away from the page it is an event called 'onpagehide', this document object event is listening to the window object, to trigger the js script to be run that changes the title of the page, in the page tab
 
 ###### From W3 Schools
 
-**Favicon:** my webpage kept getting a 400 error for the favicon, so I googled what that was and spoke to the fountain of knowledge that is my 13 year old son and found a favicon generator on the w3 schools website, created my own and hey presto, my favicon 200 error is now a 200 ok
+- **Favicon:** my webpage kept getting a 400 error for the favicon, so I googled what that was and spoke to the fountain of knowledge that is my 13 year old son and found a favicon generator on the w3 schools website, created my own and hey presto, my favicon 200 error is now a 200 ok
 
 ###### From Google
 
-**Imported Google Font** I imported this 'unbounded' font from google into my internal style css sheet
+- **Imported Google Font:** imported 'unbounded' font from google into my internal style css sheet
