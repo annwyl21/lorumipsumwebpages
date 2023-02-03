@@ -22,6 +22,8 @@ The purpose of this work is two-fold:
 
 **Badge:** a 'new' badge to highlight a new page
 
+**Photo Carousel:** containing 5 bird images that are scrolled through onclick by the user and adapt responsively to the displaying device
+
 ###### From general websites/ you tube videos
 
 **Title of the Tab:** when the user navigates away from the page it is an event called 'onpagehide', this document object event is listening to the window object, to trigger the js script to be run that changes the title of the page, in the page tab
