@@ -25,4 +25,43 @@ footer {
     font-size: small;
 }
 
-    
+#babybirdaccordion {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#collapseOne {
+    background-color: #CAE7B9;
+    font-family: 'Unbounded', cursive;
+    color: #7E7F9A;
+}
+
+#collapseTwo {
+    background-color: #CAE7B9;
+    font-family: 'Unbounded', cursive;
+    color: #7E7F9A;
+}
+
+#collapseThree {
+    background-color: #CAE7B9;
+    font-family: 'Unbounded', cursive;
+    color: #7E7F9A;
+}
+
+#headingOne {
+    background-color: #F3DE8A;
+    font-family: 'Unbounded', cursive;
+    color: #EB9486;
+}
+
+#headingTwo {
+    background-color: #F3DE8A;
+    font-family: 'Unbounded', cursive;
+    color: #EB9486;
+}
+
+#headingThree {
+    background-color: #F3DE8A;
+    font-family: 'Unbounded', cursive;
+    color: #EB9486;
+}
