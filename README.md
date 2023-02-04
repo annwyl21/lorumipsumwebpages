@@ -32,6 +32,8 @@ The purpose of this work is two-fold:
 
 - **Favicon:** my webpage kept getting a 400 error for the favicon, so I googled what that was and spoke to the fountain of knowledge that is my 13 year old son and found a favicon generator on the w3 schools website, created my own and hey presto, my favicon 200 error is now a 200 ok
 
+- **ACCESSIBLE Form** to calculate the approximate age of your dog in human years, the form uses javascript. The form itself has a label feature that will read out loud the label when the user focuses on the input element, the label and id tags are the same to bind the elements together
+
 ###### From Google
 
 - **Imported Google Font:** imported 'unbounded' font from google into my internal style css sheet

@@ -70,3 +70,7 @@ footer {
     color: #EB9486;
     font-family: 'Unbounded', cursive;
 }
+
+#submitbutton {
+    text-align: right;
+}
