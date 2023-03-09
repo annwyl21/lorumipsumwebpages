@@ -22,6 +22,7 @@ span {
 footer {
     color: #97A7B3;
     font-size: small;
+    background-color: #CAE7B9;
 }
 
 #babybirdaccordion {
@@ -68,4 +69,8 @@ footer {
 #mybadge {
     color: #EB9486;
     font-family: 'Unbounded', cursive;
+}
+
+#submitbutton {
+    text-align: right;
 }
